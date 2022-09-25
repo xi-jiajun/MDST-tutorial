@@ -1,3 +1,3 @@
-# MDST-tutorial
+# mdst-tutorial-submission
 
 Hello MDST!
